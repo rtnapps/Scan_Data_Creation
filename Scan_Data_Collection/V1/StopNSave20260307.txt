@@ -1,0 +1,691 @@
+690|1057|3432.39|StopNSave
+473527|20260307|20260302||8709|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000054|09050000054|maverick menthol box kings|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260302||8713|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03330051100|03330051100|Buttercup Snuff|PACK|2|1|N|0|0|||||||||34.58||||||||||||||
+473527|20260307|20260302||8715|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||04330010926|04330010926|LUCKYSTR RED 100 BX|PACK|7|1|N|0|0|||||||||35.36||||||||||||||
+473527|20260307|20260302||8716|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||04330010926|04330010926|LUCKYSTR RED 100 BX|PACK|3|1|N|0|0|||||||||15.44||||||||||||||
+473527|20260307|20260302||8718|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78466824321|78466824321|Slapwoods Sweet Aromatic|PACK|2|1|N|0|0|||||||||1.98||||||||||||||
+473527|20260307|20260302||8718|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||79655946650|79655946650|Slapwoods Russian Cream|PACK|2|1|N|0|0|||||||||1.98||||||||||||||
+473527|20260307|20260302||8718|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||64996499280|64996499280|Red Herring Grabba Crush|PACK|1|1|N|0|0|||||||||2.69||||||||||||||
+473527|20260307|20260302||8720|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207068|78476207068|Zig-Zag Staright Up (20|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260302||8723|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005785|03170005785|White Owl Emerald|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260302||8723|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005640|03170005640|White Owl Silver Mini|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260302||8723|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005784|03170005784|White Owl Platinum|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260302||8725|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|Black mild Original PT|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260302||8728|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8729|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260302||8732|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|Black mild Original PT|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260302||8737|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260302||8738|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||04330018717|04330018717|LUCKYSTR 100 BX MEN|PACK|1|1|N|0|0|||||||||5.48||||||||||||||
+473527|20260307|20260302||8738|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005800|03170005800|White Owl Swirl chocolate and Vanilla|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260302||8741|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000935|02820000935|MARL MENTHOL BLACK 72MM BOX|PACK|1|1|N|0|0|||||||||9.29||||||||||||||
+473527|20260307|20260302||8745|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8749|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|2|1|N|0|0|||||||||14.42||||||||||||||
+473527|20260307|20260302||8749|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|5|1|N|0|0|||||||||6.88||||||||||||||
+473527|20260307|20260302||8751|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8754|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260302||8755|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260302||8758|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590047501|02590047501|PomPom Red|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8761|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|Black mild Original PT|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8765|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207840|78476207840|Zigzag Grape wrap|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260302||8770|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000071|09050000071|kool box kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260302||8772|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590027588|02590027588|Pom Pom Grape|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260302||8778|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260302||8783|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013721563|07013721563|B&M WT Sweets|PACK|3|1|N|0|0|||||||||4.32||||||||||||||
+473527|20260307|20260302||8783|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005786|03170005786|White Owl Green Sweet|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260302||8788|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161021240|07161021240|D/MASTERS COCOA 30-2/1.29|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260302||8788|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260302||8789|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050001001|09050001001|kool box 100 050 off 1pack smps|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260302||8790|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8791|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005811|03170005811|Game Diamond|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260302||8794|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||81015986312|81015986312|LOOSE LEAF STRAWBERRY DREAM WRAP|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260302||8794|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||67173400278|67173400278|Bob Marley|PACK|1|1|N|0|0|||||||||2.59||||||||||||||
+473527|20260307|20260302||8796|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000954|02820000954|Marlboro Menthol Black Spcl Blend King B|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260302||8798|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8798|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161021216|07161021216|Backwoods NOLA Banana Foster|PACK|1|1|N|0|0|||||||||6.99||||||||||||||
+473527|20260307|20260302||8799|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8801|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8801|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||04330018717|04330018717|LUCKYSTR 100 BX MEN|PACK|1|1|N|0|0|||||||||5.48||||||||||||||
+473527|20260307|20260302||8801|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07717051000|07717051000|Tops|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260302||8802|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|3|1|N|0|0|||||||||3.72||||||||||||||
+473527|20260307|20260302||8806|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711122|07013711122|Black mild Jazz WT|PACK|1|1|N|0|0|||||||||1.59||||||||||||||
+473527|20260307|20260302||8806|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||81015986147|81015986147|LooseLeaf Sweet Aromatic|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260302||8808|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500569|85876500569|Show Sweet|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260302||8809|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8814|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030195|07161030195|Backwoods Original Singl|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260302||8817|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013783922|07013783922|B&M PT Wine|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8821|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8826|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|2|1|N|0|0|||||||||2.58||||||||||||||
+473527|20260307|20260302||8827|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260302||8831|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260302||8832|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8833|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07717051000|07717051000|Tops|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260302||8835|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8836|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000051|09050000051|maverick menthol box 100s|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260302||8838|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005815|03170005815|Game Black Sweet|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260302||8838|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07908300005|07908300005|1.25 Job|PACK|1|1|N|0|0|||||||||1.89||||||||||||||
+473527|20260307|20260302||8841|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8841|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|6|1|N|0|0|||||||||8.20||||||||||||||
+473527|20260307|20260302||8842|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260302||8842|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8845|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||01100000493|01100000493|Pyramid Blue King Box|PACK|5|1|N|0|0|||||||||39.95||||||||||||||
+473527|20260307|20260302||8845|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||01100000494|01100000494|Pyramid Gold King Men Box|PACK|5|1|N|0|0|||||||||39.95||||||||||||||
+473527|20260307|20260302||8848|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8850|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207870|78476207870|Zig Zag Sweet 4Pk|PACK|2|1|N|0|0|||||||||1.98||||||||||||||
+473527|20260307|20260302||8850|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207840|78476207840|Zigzag Grape wrap|PACK|2|1|N|0|0|||||||||1.98||||||||||||||
+473527|20260307|20260302||8852|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260302||8856|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260302||8859|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161020422|07161020422|Backwoods Chocolate 5pack|PACK|1|1|N|0|0|||||||||6.99||||||||||||||
+473527|20260307|20260302||8861|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000038|09050000038|maverick box 100s|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260302||8871|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005785|03170005785|White Owl Emerald|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260302||8871|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8874|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||81972101183|81972101183|Bluntville Blue|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260302||8875|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044555|02590044555|SWISHER SWEET GRAPE|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8875|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044557|02590044557|Swisher Silver|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8875|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8878|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260302||8879|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000051|09050000051|maverick menthol box 100s|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260302||8880|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000384|02820000384|Marlboro Gold King Box 5pk|PACK|1|1|N|0|0|||||||||8.89||||||||||||||
+473527|20260307|20260302||8881|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|2|1|N|0|0|||||||||2.58||||||||||||||
+473527|20260307|20260302||8884|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000384|02820000384|Marlboro Gold King Box 5pk|PACK|1|1|N|0|0|||||||||8.89||||||||||||||
+473527|20260307|20260302||8885|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|3|1|N|0|0|||||||||3.72||||||||||||||
+473527|20260307|20260302||8886|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|4|1|N|0|0|||||||||5.11||||||||||||||
+473527|20260307|20260302||8887|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005781|03170005781|White Owl Red Sweet|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260302||8888|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|4|1|N|0|0|||||||||5.11||||||||||||||
+473527|20260307|20260302||8888|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260302||8889|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260302||8899|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000363|02820000363|Marlboro 100 Box|PACK|2|1|Y|2|0.20|||||||||15.88||||||||||||||
+473527|20260307|20260302||8904|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820031002|02820031002|L&M Blue King Box|PACK|1|1|N|0|0|||||||||8.57||||||||||||||
+473527|20260307|20260302||8906|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260302||8907|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260302||8908|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000954|02820000954|Marlboro Menthol Black Spcl Blend King B|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260302||8910|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590022734|02590022734|Grape Swisher|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260302||8912|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260302||8913|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||01230000094|01230000094|CAMEL CRUSH SILVER 85 BOX MEN|PACK|1|1|N|0|0|||||||||8.91||||||||||||||
+473527|20260307|20260302||8914|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260303||8920|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000051|09050000051|maverick menthol box 100s|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260303||8923|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050001001|09050001001|kool box 100 050 off 1pack smps|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260303||8925|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260303||8926|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|Black and Mild Sweet|PACK|3|1|N|0|0|||||||||3.72||||||||||||||
+473527|20260307|20260303||8928|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013783922|07013783922|B&M PT Wine|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||8929|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711122|07013711122|Black mild Jazz WT|PACK|2|1|N|0|0|||||||||3.18||||||||||||||
+473527|20260307|20260303||8930|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260303||8930|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260303||8935|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260303||8936|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260303||8937|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013700018|07013700018|Black  Mild 5Pk Plastic|PACK|1|1|N|0|0|||||||||6.99||||||||||||||
+473527|20260307|20260303||8937|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005815|03170005815|Game Black Sweet|PACK|3|1|N|0|0|||||||||3.87||||||||||||||
+473527|20260307|20260303||8939|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260303||8941|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013711121|07013711121|Black  Mild Jazz|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260303||8944|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500569|85876500569|Show Sweet|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260303||8945|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000357|02820000357|Marlboro King Soft|PACK|1|1|N|0|0|||||||||8.89||||||||||||||
+473527|20260307|20260303||8946|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260303||8947|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260303||8949|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260303||8949|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|2|1|N|0|0|||||||||0.98||||||||||||||
+473527|20260307|20260303||8952|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000051|09050000051|maverick menthol box 100s|PACK|5|1|N|0|0|||||||||33.50||||||||||||||
+473527|20260307|20260303||8955|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590027588|02590027588|Pom Pom Grape|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260303||8959|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||81015986312|81015986312|LOOSE LEAF STRAWBERRY DREAM WRAP|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260303||8959|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||8960|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207068|78476207068|Zig-Zag Staright Up (20|PACK|3|1|N|0|0|||||||||2.97||||||||||||||
+473527|20260307|20260303||8961|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||8966|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260303||8968|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207890|78476207890|Zigzag Gold|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260303||8969|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260303||8969|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044568|02590044568|SWISHER SWEETS PEPPERMINT|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||8970|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02720000859|02720000859|PALL MALL 85 BOX MEN|PACK|1|1|N|0|0|||||||||7.19||||||||||||||
+473527|20260307|20260303||8974|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260303||8977|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044555|02590044555|SWISHER SWEET GRAPE|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260303||8978|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||8979|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|2|1|N|0|0|||||||||2.98||||||||||||||
+473527|20260307|20260303||8981|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207068|78476207068|Zig-Zag Staright Up (20|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260303||8984|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005814|03170005814|Game Red Sweet|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260303||8990|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500569|85876500569|Show Sweet|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260303||8992|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260303||8997|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|2|1|N|0|0|||||||||0.98||||||||||||||
+473527|20260307|20260303||8998|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260303||9003|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||9017|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590027588|02590027588|Pom Pom Grape|PACK|3|1|N|0|0|||||||||3.57||||||||||||||
+473527|20260307|20260303||9018|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||87441100062|87441100062|Cheyenne Mnthl|PACK|3|1|N|0|0|||||||||6.27||||||||||||||
+473527|20260307|20260303||9022|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260303||9042|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260303||9045|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260303||9045|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260303||9049|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||04210000871|04210000871|Grizzly Wntergrn Lngcut|PACK|4|1|N|0|0|||||||||23.96||||||||||||||
+473527|20260307|20260303||9050|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000054|09050000054|maverick menthol box kings|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260303||9050|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005786|03170005786|White Owl Green Sweet|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260303||9053|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590047501|02590047501|PomPom Red|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||9054|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710529|07013710529|Black  Mild Wine WT|PACK|1|1|N|0|0|||||||||1.59||||||||||||||
+473527|20260307|20260303||9057|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02720020950|02720020950|PALL MALL SELECT 100 BOX MEN|PACK|1|1|N|0|0|||||||||4.82||||||||||||||
+473527|20260307|20260303||9059|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07717051000|07717051000|Tops|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260303||9064|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260303||9065|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||9065|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590047501|02590047501|PomPom Red|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||9065|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260303||9068|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|4|1|N|0|0|||||||||4.31||||||||||||||
+473527|20260307|20260303||9069|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260303||9070|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260303||9071|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||9071|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260303||9075|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005781|03170005781|White Owl Red Sweet|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260303||9076|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260303||9079|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590027917|02590027917|Swisher Leaf wrap $2.79 Irish Cream|PACK|1|1|N|0|0|||||||||2.79||||||||||||||
+473527|20260307|20260303||9080|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161020300|07161020300|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||3.99||||||||||||||
+473527|20260307|20260303||9082|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||9085|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260303||9087|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||76107342590|76107342590|Bugler Original|PACK|1|1|N|0|0|||||||||5.19||||||||||||||
+473527|20260307|20260303||9093|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260303||9096|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260303||9105|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013783922|07013783922|B&M PT Wine|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||9107|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013721563|07013721563|B&M WT Sweets|PACK|3|1|N|0|0|||||||||4.32||||||||||||||
+473527|20260307|20260303||9107|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005786|03170005786|White Owl Green Sweet|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260303||9110|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||87441100064|87441100064|Cheyenne Peach cigar|PACK|4|1|N|0|0|||||||||8.36||||||||||||||
+473527|20260307|20260303||9121|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207880|78476207880|Green Zigzag 4Pk|PACK|2|1|N|0|0|||||||||1.98||||||||||||||
+473527|20260307|20260303||9121|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07717051000|07717051000|Tops|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260303||9122|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161020301|07161020301|Backwoods Honey Single|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260303||9122|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260303||9142|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260303||9148|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000071|09050000071|kool box kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260303||9155|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260303||9159|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260303||9161|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260303||9167|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260303||9169|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260303||9171|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013700018|07013700018|Black  Mild 5Pk Plastic|PACK|1|1|N|0|0|||||||||6.99||||||||||||||
+473527|20260307|20260303||9172|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260303||9177|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||04330018714|04330018714|LUCKYSTR 85 BX MEN|PACK|1|1|N|0|0|||||||||5.48||||||||||||||
+473527|20260307|20260303||9178|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260303||9183|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260303||9184|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||76957783804|76957783804|Loose Leaf Amber Dream|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260303||9184|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||76957792156|76957792156|LooseLeaf  Ruby Dream|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260303||9185|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260303||9187|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260303||9187|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|6|1|N|0|0|||||||||6.24||||||||||||||
+473527|20260307|20260303||9188|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|4|1|N|0|0|||||||||4.31||||||||||||||
+473527|20260307|20260303||9191|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260303||9193|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260303||9194|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161020300|07161020300|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||3.99||||||||||||||
+473527|20260307|20260303||9195|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|2|1|N|0|0|||||||||16.28||||||||||||||
+473527|20260307|20260303||9201|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||9202|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260303||9204|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260304||9208|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260304||9208|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711487|07013711487|B&M Casino PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260304||9209|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260304||9211|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9216|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260304||9222|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590025950|02590025950|Swisher Sweets Leaf Orig|PACK|1|1|N|0|0|||||||||2.49||||||||||||||
+473527|20260307|20260304||9228|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9229|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9231|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9234|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||08640000083|08640000083|1 1/4 Job|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260304||9237|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9239|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||71616528091|71616528091|RAW ORGANIC HEMP ARTESANO|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260304||9239|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590027917|02590027917|Swisher Leaf wrap $2.79 Irish Cream|PACK|1|1|N|0|0|||||||||2.79||||||||||||||
+473527|20260307|20260304||9242|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07717051000|07717051000|Tops|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260304||9245|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161021240|07161021240|D/MASTERS COCOA 30-2/1.29|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260304||9245|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260304||9247|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|2|1|N|0|0|||||||||0.98||||||||||||||
+473527|20260307|20260304||9248|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|5|1|N|0|0|||||||||6.88||||||||||||||
+473527|20260307|20260304||9249|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013711121|07013711121|Black  Mild Jazz|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9251|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000038|09050000038|maverick box 100s|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260304||9254|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050001001|09050001001|kool box 100 050 off 1pack smps|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260304||9257|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9258|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590037915|02590037915|Swisher Leaf wrap $2.79 Original|PACK|1|1|N|0|0|||||||||2.79||||||||||||||
+473527|20260307|20260304||9258|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260304||9259|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9262|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207880|78476207880|Green Zigzag 4Pk|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260304||9263|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||87441100062|87441100062|Cheyenne Mnthl|PACK|1|1|N|0|0|||||||||2.09||||||||||||||
+473527|20260307|20260304||9265|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000087|09050000087|kool blue box 100s|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260304||9268|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013721563|07013721563|B&M WT Sweets|PACK|3|1|N|0|0|||||||||4.32||||||||||||||
+473527|20260307|20260304||9268|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005786|03170005786|White Owl Green Sweet|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260304||9269|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000073|09050000073|kool box 100s|PACK|2|1|N|0|0|||||||||15.92||||||||||||||
+473527|20260307|20260304||9270|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||67173400278|67173400278|Bob Marley|PACK|1|1|N|0|0|||||||||2.59||||||||||||||
+473527|20260307|20260304||9271|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013700018|07013700018|Black  Mild 5Pk Plastic|PACK|1|1|N|0|0|||||||||6.99||||||||||||||
+473527|20260307|20260304||9271|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|3|1|N|0|0|||||||||3.87||||||||||||||
+473527|20260307|20260304||9271|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590025951|02590025951|Swisher Sweet Leaf Honey|PACK|1|1|N|0|0|||||||||2.49||||||||||||||
+473527|20260307|20260304||9272|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|5|1|N|0|0|||||||||6.50||||||||||||||
+473527|20260307|20260304||9279|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260304||9281|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000087|09050000087|kool blue box 100s|PACK|2|1|N|0|0|||||||||15.92||||||||||||||
+473527|20260307|20260304||9285|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201022|61968201022|Wrap|PACK|2|1|N|0|0|||||||||0.98||||||||||||||
+473527|20260307|20260304||9285|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260304||9286|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|5|1|N|0|0|||||||||5.50||||||||||||||
+473527|20260307|20260304||9290|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07717051000|07717051000|Tops|PACK|2|1|N|0|0|||||||||2.98||||||||||||||
+473527|20260307|20260304||9291|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005784|03170005784|White Owl Platinum|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260304||9293|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9294|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||81972101241|81972101241|Bluntville Pink Diva|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260304||9296|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590025955|02590025955|Swisher Sweet Leaf Irish Cream|PACK|1|1|N|0|0|||||||||2.49||||||||||||||
+473527|20260307|20260304||9302|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005814|03170005814|Game Red Sweet|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260304||9304|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590025951|02590025951|Swisher Sweet Leaf Honey|PACK|1|1|N|0|0|||||||||2.49||||||||||||||
+473527|20260307|20260304||9305|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161020363|07161020363|Dutch Sweet Fusion|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260304||9306|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260304||9307|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000384|02820000384|Marlboro Gold King Box 5pk|PACK|1|1|N|0|0|||||||||8.89||||||||||||||
+473527|20260307|20260304||9310|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|4|1|N|0|0|||||||||4.31||||||||||||||
+473527|20260307|20260304||9313|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9313|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260304||9314|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||68514191303|68514191303|24/7 Red 100 Box|PACK|1|1|N|0|0|||||||||35.99||||||||||||||
+473527|20260307|20260304||9318|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9320|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9321|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000357|02820000357|Marlboro King Soft|PACK|2|1|Y|2|0.20|||||||||17.58||||||||||||||
+473527|20260307|20260304||9326|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9328|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9341|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000071|09050000071|kool box kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260304||9344|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260304||9350|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260304||9351|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9359|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590027588|02590027588|Pom Pom Grape|PACK|3|1|N|0|0|||||||||3.57||||||||||||||
+473527|20260307|20260304||9359|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000364|02820000364|MARL MENTHOL RICH BLUE BOX|PACK|2|1|Y|2|0.20|||||||||18.28||||||||||||||
+473527|20260307|20260304||9360|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161021240|07161021240|D/MASTERS COCOA 30-2/1.29|PACK|4|1|N|0|0|||||||||5.16||||||||||||||
+473527|20260307|20260304||9364|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9371|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013711121|07013711121|Black  Mild Jazz|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9373|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260304||9374|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9375|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260304||9375|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005784|03170005784|White Owl Platinum|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260304||9379|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9379|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9380|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07717051000|07717051000|Tops|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260304||9386|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260304||9393|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9396|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260304||9396|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260304||9400|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260304||9402|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260304||9405|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9408|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260304||9410|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000071|09050000071|kool box kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260304||9412|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|6|1|N|0|0|||||||||6.24||||||||||||||
+473527|20260307|20260304||9413|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044557|02590044557|Swisher Silver|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9417|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260304||9420|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||7.46||||||||||||||
+473527|20260307|20260304||9420|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||8.39||||||||||||||
+473527|20260307|20260304||9421|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02720034728|02720034728|PALL MALL BLACK 100 BOX MEN|PACK|1|1|N|0|0|||||||||7.19||||||||||||||
+473527|20260307|20260304||9421|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|5|1|N|0|0|||||||||5.50||||||||||||||
+473527|20260307|20260304||9424|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000357|02820000357|Marlboro King Soft|PACK|1|1|N|0|0|||||||||8.89||||||||||||||
+473527|20260307|20260304||9426|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260304||9433|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260304||9434|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000071|09050000071|kool box kings|PACK|2|1|N|0|0|||||||||15.92||||||||||||||
+473527|20260307|20260304||9435|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005814|03170005814|Game Red Sweet|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260304||9437|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||67173400278|67173400278|Bob Marley|PACK|1|1|N|0|0|||||||||2.59||||||||||||||
+473527|20260307|20260304||9438|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|2|1|N|0|0|||||||||0.98||||||||||||||
+473527|20260307|20260304||9440|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260304||9441|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9449|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260304||9459|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9465|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260304||9465|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005807|03170005807|Game Blue|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260304||9468|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9471|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260304||9472|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9473|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9473|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044557|02590044557|Swisher Silver|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260304||9476|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||76957792156|76957792156|LooseLeaf  Ruby Dream|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260304||9477|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|2|1|N|0|0|||||||||2.98||||||||||||||
+473527|20260307|20260304||9477|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207890|78476207890|Zigzag Gold|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260304||9479|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|2|1|N|0|0|||||||||2.58||||||||||||||
+473527|20260307|20260304||9480|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260304||9481|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260304||9482|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260304||9483|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260305||9487|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260305||9495|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9496|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02720000865|02720000865|PALL MALL 100 BOX MEN|PACK|1|1|N|0|0|||||||||7.19||||||||||||||
+473527|20260307|20260305||9497|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260305||9501|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500897|85876500897|Show Bee Berry|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260305||9501|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500887|85876500887|Show Ice|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260305||9508|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260305||9510|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500571|85876500571|Show Pineapple Buzz|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260305||9514|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260305||9515|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005781|03170005781|White Owl Red Sweet|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260305||9515|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013721563|07013721563|B&M WT Sweets|PACK|3|1|N|0|0|||||||||4.32||||||||||||||
+473527|20260307|20260305||9516|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9518|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260305||9522|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000087|09050000087|kool blue box 100s|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260305||9523|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260305||9524|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9526|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9539|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005781|03170005781|White Owl Red Sweet|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9543|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|3|1|N|0|0|||||||||4.10||||||||||||||
+473527|20260307|20260305||9543|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260305||9543|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260305||9544|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9544|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260305||9545|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260305||9547|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9555|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9562|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000953|02820000953|MARL BLACK SPECIAL BLEND 100 BOX|PACK|1|1|N|0|0|||||||||6.19||||||||||||||
+473527|20260307|20260305||9584|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260305||9593|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||76957792163|76957792163|Looseleaf  yellow dream|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260305||9595|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260305||9596|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161020367|07161020367|Dutch Irish Fusion|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260305||9604|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9605|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013700018|07013700018|Black  Mild 5Pk Plastic|PACK|1|1|N|0|0|||||||||6.99||||||||||||||
+473527|20260307|20260305||9605|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005815|03170005815|Game Black Sweet|PACK|2|1|N|0|0|||||||||2.58||||||||||||||
+473527|20260307|20260305||9606|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005949|03170005949|Game Summer Blend|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260305||9609|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013711121|07013711121|Black  Mild Jazz|PACK|2|1|N|0|0|||||||||2.46||||||||||||||
+473527|20260307|20260305||9609|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260305||9609|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.44||||||||||||||
+473527|20260307|20260305||9611|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207890|78476207890|Zigzag Gold|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260305||9618|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000028|09050000028|kool black box 100s|PACK|1|1|N|0|0|||||||||5.33||||||||||||||
+473527|20260307|20260305||9620|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260305||9621|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02720020950|02720020950|PALL MALL SELECT 100 BOX MEN|PACK|1|1|N|0|0|||||||||4.82||||||||||||||
+473527|20260307|20260305||9622|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161020367|07161020367|Dutch Irish Fusion|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260305||9622|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161020361|07161020361|Dutch Silver|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260305||9625|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500569|85876500569|Show Sweet|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260305||9628|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260305||9631|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590047501|02590047501|PomPom Red|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260305||9633|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590022734|02590022734|Grape Swisher|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9633|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005783|03170005783|White Owl White Grape|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9635|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207890|78476207890|Zigzag Gold|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260305||9648|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9651|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207840|78476207840|Zigzag Grape wrap|PACK|4|1|N|0|0|||||||||3.96||||||||||||||
+473527|20260307|20260305||9656|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005782|03170005782|White Owl Silver|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9657|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260305||9664|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|2|1|N|0|0|||||||||0.98||||||||||||||
+473527|20260307|20260305||9665|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005784|03170005784|White Owl Platinum|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9665|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005785|03170005785|White Owl Emerald|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260305||9666|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260305||9666|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005782|03170005782|White Owl Silver|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9669|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000028|09050000028|kool black box 100s|PACK|1|1|N|0|0|||||||||5.33||||||||||||||
+473527|20260307|20260305||9670|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03330000077|03330000077|Kayak Straight Dip|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260305||9670|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000051|09050000051|maverick menthol box 100s|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260305||9678|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260305||9680|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000071|09050000071|kool box kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260305||9688|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|6|1|N|0|0|||||||||6.24||||||||||||||
+473527|20260307|20260305||9688|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260305||9694|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500569|85876500569|Show Sweet|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260305||9697|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590047501|02590047501|PomPom Red|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260305||9698|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590025954|02590025954|Swisher Sweets Peach|PACK|1|1|N|0|0|||||||||2.49||||||||||||||
+473527|20260307|20260305||9699|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260305||9699|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260305||9703|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260305||9705|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260305||9706|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02720034725|02720034725|PALL MALL BLACK 83 BOX MEN|PACK|1|1|N|0|0|||||||||7.19||||||||||||||
+473527|20260307|20260305||9707|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000073|09050000073|kool box 100s|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260305||9710|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9713|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500569|85876500569|Show Sweet|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260305||9714|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260305||9715|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000038|09050000038|maverick box 100s|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260305||9716|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000363|02820000363|Marlboro 100 Box|PACK|2|1|Y|2|0.20|||||||||15.88||||||||||||||
+473527|20260307|20260305||9719|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||76107342590|76107342590|Bugler Original|PACK|1|1|N|0|0|||||||||5.19||||||||||||||
+473527|20260307|20260305||9720|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260305||9721|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260305||9723|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161020362|07161020362|Dutch Royal Haze|PACK|4|1|N|0|0|||||||||5.16||||||||||||||
+473527|20260307|20260305||9730|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|2|1|N|0|0|||||||||2.58||||||||||||||
+473527|20260307|20260305||9742|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260305||9744|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260305||9748|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9752|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||67173400278|67173400278|Bob Marley|PACK|1|1|N|0|0|||||||||2.59||||||||||||||
+473527|20260307|20260305||9753|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9754|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207108|78476207108|Zig Stright Up|PACK|2|1|N|0|0|||||||||1.98||||||||||||||
+473527|20260307|20260305||9755|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260305||9758|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9760|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000072|09050000072|kool soft kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260305||9761|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207880|78476207880|Green Zigzag 4Pk|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260305||9762|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590047501|02590047501|PomPom Red|PACK|5|1|N|0|0|||||||||6.95||||||||||||||
+473527|20260307|20260305||9762|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9763|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|3|1|N|0|0|||||||||3.72||||||||||||||
+473527|20260307|20260305||9764|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000935|02820000935|MARL MENTHOL BLACK 72MM BOX|PACK|1|1|N|0|0|||||||||9.29||||||||||||||
+473527|20260307|20260305||9764|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|4|1|N|0|0|||||||||4.31||||||||||||||
+473527|20260307|20260305||9765|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|3|1|N|0|0|||||||||3.72||||||||||||||
+473527|20260307|20260305||9766|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9768|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005949|03170005949|Game Summer Blend|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260305||9768|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|2|1|N|0|0|||||||||2.25||||||||||||||
+473527|20260307|20260305||9768|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.46||||||||||||||
+473527|20260307|20260305||9768|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005953|03170005953|GAME WTRMLON 1.29|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260305||9769|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||04330018759|04330018759|LUCKYSTR ACTIVATE BLUE 85 BOX MEN|PACK|1|1|N|0|0|||||||||5.48||||||||||||||
+473527|20260307|20260305||9771|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260305||9777|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260305||9780|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260305||9780|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9783|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||76957792156|76957792156|LooseLeaf  Ruby Dream|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260306||9785|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005814|03170005814|Game Red Sweet|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260306||9786|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260306||9788|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9789|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013721372|07013721372|Black Mild Sweet  FT|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260306||9789|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9792|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||08640000083|08640000083|1 1/4 Job|PACK|3|1|N|0|0|||||||||2.97||||||||||||||
+473527|20260307|20260306||9793|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260306||9796|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260306||9797|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161021240|07161021240|D/MASTERS COCOA 30-2/1.29|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260306||9800|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000668|02610000668|NEWPORT SMOOTH SELECT MED 100 BX MEN|PACK|1|1|N|0|0|||||||||10.24||||||||||||||
+473527|20260307|20260306||9804|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820031002|02820031002|L&M Blue King Box|PACK|1|1|N|0|0|||||||||8.57||||||||||||||
+473527|20260307|20260306||9806|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000465|02820000465|Marlboro Gold 100 Soft|PACK|1|1|N|0|0|||||||||8.89||||||||||||||
+473527|20260307|20260306||9808|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000093|09050000093|Salem short gold|PACK|2|1|N|0|0|||||||||21.58||||||||||||||
+473527|20260307|20260306||9810|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|3|1|N|0|0|||||||||3.87||||||||||||||
+473527|20260307|20260306||9812|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590027588|02590027588|Pom Pom Grape|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9813|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|5|1|N|0|0|||||||||36.30||||||||||||||
+473527|20260307|20260306||9813|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|5|1|N|0|0|||||||||6.88||||||||||||||
+473527|20260307|20260306||9814|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9815|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260306||9817|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711487|07013711487|B&M Casino PrePrice $1.19|PACK|4|1|N|0|0|||||||||4.31||||||||||||||
+473527|20260307|20260306||9821|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||9822|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9823|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9824|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500570|85876500570|Show White Grape|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260306||9827|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000028|09050000028|kool black box 100s|PACK|2|1|N|0|0|||||||||8.66||||||||||||||
+473527|20260307|20260306||9829|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000964|02820000964|Marlboro Menthol Black Spcl Blend 100 B|PACK|2|1|Y|2|0.20|||||||||14.48||||||||||||||
+473527|20260307|20260306||9830|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260306||9832|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||04330018717|04330018717|LUCKYSTR 100 BX MEN|PACK|1|1|N|0|0|||||||||5.48||||||||||||||
+473527|20260307|20260306||9833|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000071|09050000071|kool box kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260306||9834|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9835|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260306||9838|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260306||9839|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9845|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005785|03170005785|White Owl Emerald|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260306||9846|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||9848|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260306||9849|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|4|1|N|0|0|||||||||1.96||||||||||||||
+473527|20260307|20260306||9853|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|2|1|N|0|0|||||||||14.42||||||||||||||
+473527|20260307|20260306||9854|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044557|02590044557|Swisher Silver|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9854|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|4|1|N|0|0|||||||||5.11||||||||||||||
+473527|20260307|20260306||9855|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000087|09050000087|kool blue box 100s|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260306||9856|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260306||9860|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207810|78476207810|Zig Zag Grape|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260306||9862|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9867|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||9867|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260306||9869|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9870|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9873|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9876|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000073|09050000073|kool box 100s|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260306||9878|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260306||9884|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013700018|07013700018|Black  Mild 5Pk Plastic|PACK|1|1|N|0|0|||||||||6.99||||||||||||||
+473527|20260307|20260306||9884|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|3|1|N|0|0|||||||||3.87||||||||||||||
+473527|20260307|20260306||9885|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9887|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000028|09050000028|kool black box 100s|PACK|1|1|N|0|0|||||||||5.33||||||||||||||
+473527|20260307|20260306||9889|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||9892|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500570|85876500570|Show White Grape|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260306||9892|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260306||9894|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9895|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000465|02820000465|Marlboro Gold 100 Soft|PACK|1|1|N|0|0|||||||||8.89||||||||||||||
+473527|20260307|20260306||9896|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260306||9898|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|2|1|N|0|0|||||||||2.98||||||||||||||
+473527|20260307|20260306||9904|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260306||9914|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||9918|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260306||9923|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005782|03170005782|White Owl Silver|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9924|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9925|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||87441100064|87441100064|Cheyenne Peach cigar|PACK|2|1|N|0|0|||||||||4.18||||||||||||||
+473527|20260307|20260306||9927|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||04330018717|04330018717|LUCKYSTR 100 BX MEN|PACK|1|1|N|0|0|||||||||5.48||||||||||||||
+473527|20260307|20260306||9928|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260306||9930|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|4|1|N|0|0|||||||||4.31||||||||||||||
+473527|20260307|20260306||9930|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9935|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260306||9936|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005785|03170005785|White Owl Emerald|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9936|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260306||9940|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000054|09050000054|maverick menthol box kings|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260306||9940|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9941|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||9944|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013783922|07013783922|B&M PT Wine|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9945|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590027588|02590027588|Pom Pom Grape|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260306||9945|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000964|02820000964|Marlboro Menthol Black Spcl Blend 100 B|PACK|2|1|Y|2|0.20|||||||||14.48||||||||||||||
+473527|20260307|20260306||9946|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013721563|07013721563|B&M WT Sweets|PACK|3|1|N|0|0|||||||||4.32||||||||||||||
+473527|20260307|20260306||9946|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005786|03170005786|White Owl Green Sweet|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260306||9952|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||9952|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207810|78476207810|Zig Zag Grape|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260306||9960|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||9960|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9978|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023652|02590023652|Blk Smooth Grape|PACK|2|1|N|0|0|||||||||2.58||||||||||||||
+473527|20260307|20260306||9979|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||9982|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02720034725|02720034725|PALL MALL BLACK 83 BOX MEN|PACK|1|1|N|0|0|||||||||7.19||||||||||||||
+473527|20260307|20260306||9983|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||9985|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000086|09050000086|kool blue box kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260306||9992|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||9995|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||9999|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260306||9999|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005806|03170005806|Game Green cigar|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260306||4|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260306||6|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260306||7|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000954|02820000954|Marlboro Menthol Black Spcl Blend King B|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260306||10|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590047501|02590047501|PomPom Red|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260306||14|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260306||15|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000028|09050000028|kool black box 100s|PACK|1|1|N|0|0|||||||||5.33||||||||||||||
+473527|20260307|20260306||17|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000954|02820000954|Marlboro Menthol Black Spcl Blend King B|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260306||24|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260306||26|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||29|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||04330018759|04330018759|LUCKYSTR ACTIVATE BLUE 85 BOX MEN|PACK|2|1|N|0|0|||||||||9.96||||||||||||||
+473527|20260307|20260306||35|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260306||37|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590024301|02590024301|Optimo Sweet|PACK|17|1|N|0|0|||||||||16.83||||||||||||||
+473527|20260307|20260306||39|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260306||43|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||79995303930|79995303930|Stoker'S Red Surpreme|PACK|1|1|N|0|0|||||||||1.99||||||||||||||
+473527|20260307|20260306||44|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260306||45|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||46|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260306||56|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260306||59|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|6|1|N|0|0|||||||||6.24||||||||||||||
+473527|20260307|20260306||59|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260306||62|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|2|1|N|0|0|||||||||14.42||||||||||||||
+473527|20260307|20260306||63|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260306||67|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260306||71|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000954|02820000954|Marlboro Menthol Black Spcl Blend King B|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260306||74|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|3|1|N|0|0|||||||||3.87||||||||||||||
+473527|20260307|20260306||81|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005814|03170005814|Game Red Sweet|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260306||84|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||01230000093|01230000093|CAMEL CRUSH REG (GRN) 85 BOX MEN|PACK|1|1|N|0|0|||||||||8.91||||||||||||||
+473527|20260307|20260306||87|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000028|09050000028|kool black box 100s|PACK|1|1|N|0|0|||||||||5.33||||||||||||||
+473527|20260307|20260306||88|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|2|1|N|0|0|||||||||14.42||||||||||||||
+473527|20260307|20260307||98|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260307||99|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000028|09050000028|kool black box 100s|PACK|1|1|N|0|0|||||||||5.33||||||||||||||
+473527|20260307|20260307||101|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260307||101|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|3|1|N|0|0|||||||||4.10||||||||||||||
+473527|20260307|20260307||102|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||103|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500571|85876500571|Show Pineapple Buzz|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260307||106|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|8|1|N|0|0|||||||||8.62||||||||||||||
+473527|20260307|20260307||107|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||81972101183|81972101183|Bluntville Blue|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260307||108|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03330051104|03330051104|Honey Bee Dry Snuff|PACK|1|1|N|0|0|||||||||14.59||||||||||||||
+473527|20260307|20260307||109|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||110|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000954|02820000954|Marlboro Menthol Black Spcl Blend King B|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260307||112|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260307||113|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260307||115|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005782|03170005782|White Owl Silver|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260307||118|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260307||118|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590047501|02590047501|PomPom Red|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||118|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260307||121|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||122|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260307||123|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||124|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|2|1|N|0|0|||||||||14.42||||||||||||||
+473527|20260307|20260307||127|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|1|1|N|0|0|||||||||0.49||||||||||||||
+473527|20260307|20260307||130|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||01100000494|01100000494|Pyramid Gold King Men Box|PACK|5|1|N|0|0|||||||||39.95||||||||||||||
+473527|20260307|20260307||130|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||01100000493|01100000493|Pyramid Blue King Box|PACK|5|1|N|0|0|||||||||39.95||||||||||||||
+473527|20260307|20260307||132|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260307||139|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||141|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500570|85876500570|Show White Grape|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260307||142|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|3|1|N|0|0|||||||||3.87||||||||||||||
+473527|20260307|20260307||143|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013700018|07013700018|Black  Mild 5Pk Plastic|PACK|2|1|N|0|0|||||||||13.98||||||||||||||
+473527|20260307|20260307||143|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|3|1|N|0|0|||||||||3.87||||||||||||||
+473527|20260307|20260307||145|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000028|09050000028|kool black box 100s|PACK|1|1|N|0|0|||||||||5.33||||||||||||||
+473527|20260307|20260307||146|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||148|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07717051000|07717051000|Tops|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260307||151|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||154|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000028|09050000028|kool black box 100s|PACK|3|1|N|0|0|||||||||12.99||||||||||||||
+473527|20260307|20260307||155|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260307||156|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000038|09050000038|maverick box 100s|PACK|1|1|N|0|0|||||||||7.10||||||||||||||
+473527|20260307|20260307||158|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260307||159|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005949|03170005949|Game Summer Blend|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260307||159|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005953|03170005953|GAME WTRMLON 1.29|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260307||162|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260307||162|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260307||166|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260307||169|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||67173400278|67173400278|Bob Marley|PACK|1|1|N|0|0|||||||||2.59||||||||||||||
+473527|20260307|20260307||175|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||68514191304|68514191304|24/7 Gold Box|PACK|1|1|N|0|0|||||||||35.99||||||||||||||
+473527|20260307|20260307||176|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050001001|09050001001|kool box 100 050 off 1pack smps|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260307||178|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013721563|07013721563|B&M WT Sweets|PACK|3|1|N|0|0|||||||||4.32||||||||||||||
+473527|20260307|20260307||178|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161021237|07161021237|Backwoods True Wraps Vanilla|PACK|1|1|N|0|0|||||||||6.99||||||||||||||
+473527|20260307|20260307||180|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260307||183|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260307||184|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||188|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||81712702079|81712702079|Show Russian Gem|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260307||189|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590027588|02590027588|Pom Pom Grape|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260307||189|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590047501|02590047501|PomPom Red|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260307||192|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260307||193|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000028|09050000028|kool black box 100s|PACK|1|1|N|0|0|||||||||5.33||||||||||||||
+473527|20260307|20260307||195|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023691|02590023691|BLK Wine|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260307||199|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000954|02820000954|Marlboro Menthol Black Spcl Blend King B|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260307||205|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161021216|07161021216|Backwoods NOLA Banana Foster|PACK|1|1|N|0|0|||||||||6.99||||||||||||||
+473527|20260307|20260307||206|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||214|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||216|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000087|09050000087|kool blue box 100s|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260307||217|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000093|09050000093|Salem short gold|PACK|2|1|N|0|0|||||||||21.58||||||||||||||
+473527|20260307|20260307||222|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013721372|07013721372|Black Mild Sweet  FT|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260307||223|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||61968201038|61968201038|Ogk True Blunt|PACK|2|1|N|0|0|||||||||0.98||||||||||||||
+473527|20260307|20260307||226|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||227|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000357|02820000357|Marlboro King Soft|PACK|2|1|Y|2|0.20|||||||||15.88||||||||||||||
+473527|20260307|20260307||229|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||229|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013711121|07013711121|Black  Mild Jazz|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260307||236|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260307||236|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260307||238|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260307||240|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|3|1|N|0|0|||||||||3.12||||||||||||||
+473527|20260307|20260307||241|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260307||243|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260307||247|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500570|85876500570|Show White Grape|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260307||248|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005813|03170005813|Game Natural Silver|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260307||252|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000071|09050000071|kool box kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260307||253|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260307||257|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||258|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590022880|02590022880|Swisher Sweets Black|PACK|3|1|N|0|0|||||||||3.57||||||||||||||
+473527|20260307|20260307||260|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260307||261|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07717051000|07717051000|Tops|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260307||263|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005803|03170005803|Game Honey|PACK|4|1|N|0|0|||||||||5.16||||||||||||||
+473527|20260307|20260307||270|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260307||272|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||275|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000954|02820000954|Marlboro Menthol Black Spcl Blend King B|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260307||284|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|3|1|N|0|0|||||||||3.72||||||||||||||
+473527|20260307|20260307||285|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260307||288|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260307||291|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590027931|02590027931|Swisher Sweets Gold|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260307||292|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|3|1|N|0|0|||||||||3.72||||||||||||||
+473527|20260307|20260307||297|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820000964|02820000964|Marlboro Menthol Black Spcl Blend 100 B|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260307||301|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013710018|07013710018|BandM PT Original Nice Price|PACK|3|1|N|0|0|||||||||3.72||||||||||||||
+473527|20260307|20260307||306|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260307||306|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||307|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207890|78476207890|Zigzag Gold|PACK|4|1|N|0|0|||||||||3.96||||||||||||||
+473527|20260307|20260307||308|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820031772|02820031772|Marlboro NXT King Box|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260307||309|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161020310|07161020310|Backwoods Banana Single|PACK|1|1|N|0|0|||||||||1.79||||||||||||||
+473527|20260307|20260307||310|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260307||310|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|1|1|N|0|0|||||||||1.49||||||||||||||
+473527|20260307|20260307||314|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000071|09050000071|kool box kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260307||315|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590022908|02590022908|Swisher White Grape|PACK|2|1|N|0|0|||||||||2.38||||||||||||||
+473527|20260307|20260307||319|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044253|02590044253|Swi sher Sweets Diamond|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||320|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207810|78476207810|Zig Zag Grape|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260307||322|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|4|1|N|0|0|||||||||28.84||||||||||||||
+473527|20260307|20260307||322|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|3|1|N|0|0|||||||||4.10||||||||||||||
+473527|20260307|20260307||323|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|JMC|07013721563|07013721563|B&M WT Sweets|PACK|4|1|N|0|0|||||||||5.91||||||||||||||
+473527|20260307|20260307||323|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005781|03170005781|White Owl Red Sweet|PACK|1|1|N|0|0|||||||||1.19||||||||||||||
+473527|20260307|20260307||324|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||09050000072|09050000072|kool soft kings|PACK|1|1|N|0|0|||||||||8.96||||||||||||||
+473527|20260307|20260307||329|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000575|02610000575|NEWPORT 85 BOX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260307||331|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590025952|02590025952|Swisher Sweet Leaf Aroma|PACK|1|1|N|0|0|||||||||2.49||||||||||||||
+473527|20260307|20260307||333|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013721372|07013721372|Black Mild Sweet  FT|PACK|1|1|N|0|0|||||||||2.99||||||||||||||
+473527|20260307|20260307||334|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07013711491|07013711491|B&M Sweets PrePrice $1.19|PACK|5|1|N|0|0|||||||||5.50||||||||||||||
+473527|20260307|20260307||334|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|2|1|N|0|0|||||||||2.78||||||||||||||
+473527|20260307|20260307||336|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260307||336|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590044552|02590044552|Swisher Sweet|PACK|1|1|N|0|0|||||||||1.39||||||||||||||
+473527|20260307|20260307||338|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||85876500570|85876500570|Show White Grape|PACK|1|1|N|0|0|||||||||1.00||||||||||||||
+473527|20260307|20260307||342|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000577|02610000577|NEWPORT 100 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
+473527|20260307|20260307||344|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||07161030306|07161030306|Backwoods Russian Cream|PACK|2|1|N|0|0|||||||||3.58||||||||||||||
+473527|20260307|20260307||345|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||78476207880|78476207880|Green Zigzag 4Pk|PACK|1|1|N|0|0|||||||||0.99||||||||||||||
+473527|20260307|20260307||347|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG|PM USA|02820031772|02820031772|Marlboro NXT King Box|PACK|1|1|N|0|0|||||||||8.19||||||||||||||
+473527|20260307|20260307||348|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000573|02610000573|NEWPORT 100 BX MEN|PACK|1|1|N|0|0|||||||||9.14||||||||||||||
+473527|20260307|20260307||352|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02590023687|02590023687|BLK Smooth|PACK|2|1|N|0|0|||||||||2.98||||||||||||||
+473527|20260307|20260307||354|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||03170005809|03170005809|Game White Peach|PACK|1|1|N|0|0|||||||||1.29||||||||||||||
+473527|20260307|20260307||355|1|Stop N Save|844 W Montgomery St|Milledgeville|GA|31061-3109|CIG||02610000578|02610000578|NEWPORT 85 SP MEN|PACK|1|1|N|0|0|||||||||8.21||||||||||||||
