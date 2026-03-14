@@ -2,6 +2,8 @@
 
 **env.example**  - Configuration Data
 
+**create_scan_tables_mysql.sql** - Level 1 DB
+
 | Order | Python file         | Input (reads from)                                                                             | Output (writes to)                                                                                                                                                                         |
 | ----- | ------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1     | **shiftreps_v1.py**    | XML (`X:\BOOutBox`), scan_data_dept, scan_gbtax, scan_gb_department                            | scan_msm, scan_mcm, scan_ism, scan_tlm, scan_tpm, scan_cpjr, scan_connector_logs, scan_connector_status                                                                                    |
